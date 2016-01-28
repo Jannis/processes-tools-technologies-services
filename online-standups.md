@@ -121,7 +121,7 @@ An example standup
     <Host>        Is Engineer 4 working today?
     <Engineer 1>  No, he's off ill
     <Host>        Ok. Order: Host, Engineer 3, Engineer 1, Engineer 2
-  <Host>        ## Lesley Engineeryface
+    <Host>        ## Lesley Engineeryface
     <Host>        * Done
                       - S6712: Get some cake made
                   * Today

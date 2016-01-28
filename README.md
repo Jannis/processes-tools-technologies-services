@@ -21,5 +21,5 @@ with a short comment.
   teach/learn, to distribute knowledge in teams, to align everyone on
   coding style and common ways of doing things and to verify changes
   before they are merged.
-* [Clojure coding style](https://github.com/bbatsov/clojure-style-guide)
-  - a consistent coding style is good. Do I need to say anything else?
+* [Clojure coding style](https://github.com/bbatsov/clojure-style-guide) -
+  a consistent coding style is good. Do I need to say anything else?

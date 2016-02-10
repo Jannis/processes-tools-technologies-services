@@ -58,5 +58,5 @@ Terminal or via a UI like GitHub or GitLab.
 ### Commit Messages
 
 It is strongly recommended to follow the [Git commit message guidelines
-documented here](http://chris.beams.io/posts/git-commit/) for commit
+documented here](http://chris.beams.io/posts/git-commit) for commit
 messages.
